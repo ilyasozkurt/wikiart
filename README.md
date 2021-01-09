@@ -3,7 +3,7 @@ wikiart.com's paints data
 
 * 178469 paints
 
-## Detaylar
+## Details
 * image_id
 * url
 * owner
