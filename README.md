@@ -1,5 +1,5 @@
 # wikiart
-wikiart.com's paints data
+wikiart.org's paints data
 
 * 178469 paints
 
