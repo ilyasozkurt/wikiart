@@ -27,4 +27,4 @@ wikiart.org's paints data
 
 Data scrapped at **12/2020**
 
-Sponsored by [6harf.com](https://6harf.com "web tasarım")
+Sponsored by [freestockphotos.site](https://freestockphotos.site "Free Stock Photos.site")
