@@ -27,4 +27,4 @@ wikiart.org's paints data
 
 Data scrapped at **12/2020**
 
-Sponsored by [freestockphotos.site](https://freestockphotos.site "Free Stock Photos.site")
+Sponsored by [hometrust.app](https://hometrust.app "Property Reviews Platform")
